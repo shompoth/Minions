@@ -1,5 +1,7 @@
 # Minions
 
+![minions](https://github.com/shompoth/Minions/blob/main/src/assets/img/screenshot-minions.png)
+
 Ce projet est un jeu sur le thème des minions à la conquête du monde. Toutes les quatre secondes un nouveau va s'infiltrer dans le monde.
 
 ## Fonctionnalités :
