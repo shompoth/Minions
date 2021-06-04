@@ -2,14 +2,14 @@
 
 ![minions](https://github.com/shompoth/Minions/blob/main/src/assets/img/screenshot-minions.png)
 
-Ce projet est un jeu sur le thème des minions à la conquête du monde. Toutes les quatre secondes un nouveau va s'infiltrer dans le monde.
+Ce projet est un jeu sur le thème des minions à la conquête du monde. Toutes les quatre secondes un nouveau minion va s'infiltrer dans le monde.
 
 ## Fonctionnalités :
 - Créer un minion
 - Détruire un minion
 - Créer une équipe de cinq minions
 - Détruire une équipe de cinq minions
-- Stocker le nombre d'infiltré à un moment donnée
+- Stocker le nombre d'infiltrés à un moment donné
 
 ## Crée avec
 
